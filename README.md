@@ -9,9 +9,8 @@ Zemor 的博客
     <summary>算法</summary>
     <blockquote>
         <details>
-            <summary>Demo</summary>
             <blockquote>
-                <a href="#">个人博客</a>
+                <a href="js/浏览器Array改变原数组方法原理及实现.md">浏览器Array改变原数组方法原理及实现</a>
             </blockquote>
         </details> 
 	</blockquote>
