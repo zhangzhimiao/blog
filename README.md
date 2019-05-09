@@ -10,7 +10,7 @@ Zemor 的博客
     <blockquote>
         <details>
             <blockquote>
-                <a href="js/浏览器Array改变原数组方法原理及实现.md">浏览器Array改变原数组方法原理及实现</a>
+                <a href="算法/字符串转整数.md">字符串转整数</a>
             </blockquote>
         </details> 
 	</blockquote>
@@ -19,9 +19,8 @@ Zemor 的博客
     <summary>js</summary>
     <blockquote>
         <details>
-            <summary>Demo</summary>
             <blockquote>
-                <a href="#">个人博客</a>
+                <a href="js/浏览器Array改变原数组方法原理及实现.md">浏览器Array改变原数组方法原理及实现</a>
             </blockquote>
         </details> 
     </blockquote>
@@ -30,7 +29,6 @@ Zemor 的博客
     <summary>vue</summary>
     <blockquote>
         <details>
-            <summary>Demo</summary>
             <blockquote>
                 <a href="#">个人博客</a>
             </blockquote>
