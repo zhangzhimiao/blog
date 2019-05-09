@@ -8,7 +8,7 @@ Zemor 的博客
 <details>
     <summary>算法</summary>
     <blockquote>
-        <a href="#">暂无</a>
+        <a href="算法/字符串转整数.md">字符串转整数</a>
 	</blockquote>
 </details>
 <details>
