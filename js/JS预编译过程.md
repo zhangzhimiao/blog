@@ -89,12 +89,3 @@ d :
     }
 ```
 AO预编译的过程跟GO类似，只是多了形参名作为AO属性名，将形参实参值统一这个过程。
-## 贡献人员名单
-
-名单按照字母顺序排序。
-
-* [zhangzhimiao](https://github.com/zhangzhimiao)
-
-## CHANGELOG
-
-* v1.0 2018/10/28 无图版
