@@ -13,6 +13,9 @@ Zemor 的博客
     <blockquote>
         <a href="算法/求最长回文字符串.md">求最长回文字符串</a>
     </blockquote>
+    <blockquote>
+        <a href="算法/马拉车算法.md">马拉车算法</a>
+    </blockquote>
 </details>
 <details>
     <summary>js</summary>
