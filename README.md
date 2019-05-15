@@ -10,6 +10,9 @@ Zemor 的博客
     <blockquote>
         <a href="算法/字符串转整数.md">字符串转整数</a>
 	</blockquote>
+    <blockquote>
+        <a href="算法/求最长回文字符串.md">求最长回文字符串</a>
+    </blockquote>
 </details>
 <details>
     <summary>js</summary>
