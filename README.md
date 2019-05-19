@@ -35,7 +35,7 @@ Zemor 的博客
 <details>
     <summary>vue</summary>
     <blockquote>
-        <a href="#">个人博客</a>
+        <a href="vue/计算属性和methods的区别.md">计算属性和methods的区别</a>
     </blockquote>
 </details>
 </blockquote>
