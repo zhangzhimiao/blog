@@ -16,6 +16,9 @@ Zemor 的博客
     <blockquote>
         <a href="算法/马拉车算法.md">马拉车算法</a>
     </blockquote>
+    <blockquote>
+        <a href="算法/指定n位数打印从0到n位最大数中间的值.md">指定n位数打印从0到n位最大数中间的值</a>
+    </blockquote>
 </details>
 <details>
     <summary>css</summary>
