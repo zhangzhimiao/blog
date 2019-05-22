@@ -98,6 +98,11 @@ Array.prototype.reverse = function(){
 Array.prototype.splice = function(){
     var splicePart = [];
     if(arguments[0] >= this.length || arguments[1] < 0){
+        if (arguments > 2) {
+             for (var i = 2; i < arguments.length; i++) {
+                this[length++] = arguments[i];                
+            }
+        }
         return splicePart;
     }
     var index = arguments[0] >= 0 ? arguments[0] : (arguments[0] + this.length < 0 ? 0 : arguments[0] + this.length);
