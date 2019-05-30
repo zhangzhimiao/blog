@@ -22,6 +22,9 @@ Zemor 的博客
     <blockquote>
         <a href="算法/二叉树是否存在路径上数的和等于给定值.md">找二叉树是否存在路径，此路径上数的和等于给定值</a>
     </blockquote>
+    <blockquote>
+        <a href="算法/快速排序.md">快速排序</a>
+    </blockquote>
 </details>
 <details>
     <summary>css</summary>
