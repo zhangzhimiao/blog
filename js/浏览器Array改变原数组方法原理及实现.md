@@ -126,8 +126,7 @@ Array.prototype.splice = function(){
         }
         this.length = this.length - border + argu_length;
     }
-    this = splicePart;
-    return this;
+    return splicePart;
 }
 ```
 
