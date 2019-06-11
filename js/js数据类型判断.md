@@ -44,4 +44,5 @@ Object.prototype.toString.call(/\d/);//object RegExp
 
 补充：
 
-* Array： ES6新增Array.isArray()方法。
+* Array：ES6新增Array.isArray()方法。
+* Number：通过isNaN()方法可以判断输入的数据是否是一个数。
